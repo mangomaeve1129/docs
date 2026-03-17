@@ -20,8 +20,7 @@ A basic biological monitor that can be holstered on any main clothing item(Jumps
 
 ## Game Design Rationale
 
-Consider addressing:
-- How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
+## Seriously Silly
 
 ## Roundflow & Player interaction
 
