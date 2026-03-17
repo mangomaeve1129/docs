@@ -22,6 +22,12 @@ A basic biological monitor that can be holstered on any main clothing item(Jumps
 
 ## Seriously Silly
 
+## There is no Winning or Losing
+
+## Maintaining Authenticity
+
+## Take Things Slow
+
 ## Roundflow & Player interaction
 
 Consider addressing:
