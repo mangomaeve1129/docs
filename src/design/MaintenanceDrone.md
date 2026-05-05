@@ -1,6 +1,5 @@
-# Short, Properly Capitalized Title
+# Create the Maintenance Drone and Drone Auto-fabricator
 
-Create the Maintenance Drone and Drone Auto-fabricator
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
@@ -13,7 +12,7 @@ Adds a machine to robotics that will automatically create low-impact ghost roles
 
 ## Background
 
-Often times, upon joining a round as an observer there are few to no interesting ghost roles to take, barring the occasional mid round antagonist or pun pun. Maintenance drones would, I believe, offer a sort of observer+ role, allowing observers to actively take part in the round while being largely unobtrusive.
+Often times, upon joining a round as an observer there are few to no interesting ghost roles to take, barring the occasional mid round antagonist or pun pun. Maintenance drones would, I believe, offer a sort of observer+ role, allowing observers to actively take part in the round while being largely unimportant to the broader plot of the round.
 
 ## Features to be added
 
@@ -23,8 +22,11 @@ Maintenance Drone: Small silicon drones bound to the drone lawset (Look up what 
 
 ## Game Design Rationale
 
-Consider addressing:
-- How does the feature align with our [Core Design Principles](../design/design-principles.md) and game philosphy?
+Seriously silly: These drones are the pinnacle of dystopian corporate tech. Cheap, mass-producible, and wholly maintenance focused. The maintenance drone does not care you need that steel, there's a hull br
+Zero sum:
+Maintaining authenticity:
+Take things slow:
+Roleplay potentiaL:
 
 ## Roundflow & Player interaction
 
