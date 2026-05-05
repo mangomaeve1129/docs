@@ -8,7 +8,7 @@
 
 ## Overview
 
-Adds a machine to robotics that will automatically create low-impact ghost roles in the form of maintenance drones that are lawbound not to interact with non-drone beings.
+Adds a machine to robotics that will automatically create low-impact ghost roles in the form of maintenance drones lawbound not to interact with non-drone beings.
 
 ## Background
 
@@ -30,22 +30,22 @@ Maintaining authenticity: We already have semi-intelligent constructs in the for
 
 Take things slow: Sometimes, there are just too many holes and not enough engineers to patch them (Especially when arrivals gets hit with debris for the fourth time in a round) Repair drones would allow engineers to focus on the worst of the damage while the drones deal with smaller problems
 
-Roleplay potential:
+Roleplay potential: While the drones themself are not allowed to interfere with people, the same cannot be said the other way around, the crew is free to mess around with or bully drones to their heart's content with no fear of the drone even being able to retaliate, or even report them. Drones would be free to interact and chat with each other (Would need to figure out how to make their speech indecipherable to non-drones). On top of that, I intend for the ai or command to be able to submit a maintenance ticket system which would then be sent to a UI the drones can access remotely(Maybe give engineering a computer that taps into the same ticketing system? Out of scope, might do another doc about that.)
 
 ## Roundflow & Player interaction
 
 Consider addressing:
-- At what point in the round does the feature come into play? Does it happen every round? How does it affect the round pace?
-- How do you wish for players to interact with your feature and how should they not interact with it? How is this mechanically enforced?
+- Drones would begin being manufactured as soon as the Auto-Fabricator is provided with the materials for one drone (10 glass, 10 steel)
+- The robotocist would be responsible for keeping the fabricator full of materials, drones would go about diverse maintenance tasks, AI and command members could remotely task drones via the ticketing system, and the crew at large can do pretty much anything they want to a drone with no consequence.
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- Does this feature introduce any new rule enforcement challenges or additional workload for admins?
-- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
-- How are the rules enforced mechanically by way the feature will be implemented?
+- Drones in violation of their strict non-interference lawset will likely be an issue, but hopefully one that will smooth over with time
+- Ideally no, but if someone decides to be a shitter like the folks who make mice do the "Saw a nukie dance" then problems could arise
+- The drones are fragile by design, and move at the same pace as a well-nourished, healthy person, any drone being antagonistic or otherwise interfering will be scrapped with great ease. (Possibly add a button to the fabricator to remotely fizzle specific drones)
 
 # Technical Considerations
 
-- Are there any anticipated performance impacts?
-- Does the feature require new systems, UI elements, or refactors of existing ones?
-- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types)
+- Not likely, new drones will only be created if materials are provided and there is no un-occupied shell.
+- Would require a new system for automatically creating drones from the fabricator, plus the ticketing system. ticketing system would need a UI (Would I be adding the ticket submission to PDAs or comms consoles? Get feedback.)
+- Ticketing system could be based off nanotask, keeping the priority level and description, but removing the requester field, would need a way to mark them as completed. (Is that in nanotask already? I only use it for paper.)
