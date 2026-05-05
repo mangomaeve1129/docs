@@ -17,8 +17,9 @@ Often times, upon joining a round as an observer there are few to no interesting
 
 ## Features to be added
 
-Drone: Auto-Fabricator: Would add a single machine to the robotics labs (Or, if that would be obtrusive to mappers, a flatpack or circuit board in the robotics locker), that, when provided at least 10 steel and glass will fabricate one drone shell as a ghost role for that amount of materials, once that role is taken it will produce another shell provided it has enough materials.
+Drone: Auto-Fabricator: Would add a single machine to the robotics labs (Or, if that would be obtrusive to mappers, a flatpack or circuit board in the robotics locker), that, when provided at least 10 steel and glass will fabricate one drone shell as a ghost role for that amount of materials, once that role is taken it will produce another shell provided it has enough materials. If this concept comes to fruition I intend the fabricator to be upgradeable and perhaps to have a traitor interaction (TBD)
 
+Maintenance Drone: Small silicon drones bound to the drone lawset (Look up what this one is actually called later) moves by flying and can go under objects ala t1 replicator. Drones posses an internal storage similar to a slime, but sized up to satchel size (Reduce as needed if this is too much) anyone can open this storage without alerting the drone. Drones by default have a single standard hand slot, an omnitool, an industrial welder, and a fire extenguisher, alongside a built in flashlight.
 
 ## Game Design Rationale
 
