@@ -23,9 +23,13 @@ Maintenance Drone: Small silicon drones bound to the drone lawset (Look up what 
 ## Game Design Rationale
 
 Seriously silly: These drones are the pinnacle of dystopian corporate tech. Cheap, mass-producible, and wholly maintenance focused. The maintenance drone does not care you are in the room, the room is on fire and the fastest way to fix that is to vent the atmosphere.
+
 Zero sum: Drones would have little impact on the round as a whole, outside of taking some pressure off the maintenance workers
+
 Maintaining authenticity: We already have semi-intelligent constructs in the form of the various bots that can be crafted, and a cheap, easy to replace maintenance bot seems right up NT's alley.
+
 Take things slow: Sometimes, there are just too many holes and not enough engineers to patch them (Especially when arrivals gets hit with debris for the fourth time in a round) Repair drones would allow engineers to focus on the worst of the damage while the drones deal with smaller problems
+
 Roleplay potential:
 
 ## Roundflow & Player interaction
