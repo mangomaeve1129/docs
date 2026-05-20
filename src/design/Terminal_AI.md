@@ -1,19 +1,11 @@
-# Short, Properly Capitalized Title
+# Terminally Artificial
 
-Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
 
 | Designers | Implemented | GitHub Links |
 |---|---|---|
-| Your Names Here | :white_check_mark: Yes or :warning: Partially or :information_source: Open PR or :x: No | PR Links or TBD |
+| MangoMaeve | :x: No | TBD |
 
-`Designers` should be the names that you use on GitHub and/or Discord. This is optional but strongly recommended, since:
 
-- This acknowledges credit where it is due
-- People who are confused about the written intent can use this information to contact the authors
-
-`Implemented` is the status of the feature.
-
-Github links can include multiple PRs, if relevant.
 
 ## Overview
 
