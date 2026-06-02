@@ -35,7 +35,7 @@ The current implementation of cyborgs feels unfinished and shallow, ridiculously
     Binary Garbling: In a similar vein to the bloodcult, speech over binary will be displayed in whisper range as a series of ones and zeros, rather than plaintext that anyone can eavesdrop on.
 
 # Station AI
-  Enhanced access: Allows the station Ai a deeper level of interaction with all devices, enabling it to operate SMES, Substations, and Lathes.
+  Enhanced access: Allows the station Ai a deeper level of interaction with all devices, enabling it to operate SMES, Substations, and Lathes. This ability is also inherited by the "Remote Interaction" Section of the cyborg utilities mentioned above.
   Tracking: Latches the camera view onto a selected entity until the sAI moves their cursor manually or the camera network loses sight of the target.
   sAI will also receive both the Cyber Interface and alerts panel listed above, alongside a records console and crew monitor.
   I have some ideas for a modular upgrade system for the sAI, but will touch on those in a seperate document, as it's rather out of scope.
