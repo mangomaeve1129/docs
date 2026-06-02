@@ -72,18 +72,17 @@ The current implementation of cyborgs feels unfinished and shallow, ridiculously
 
 ## Roundflow & Player interaction
 
-Consider addressing:
-- At what point in the round does the feature come into play? Does it happen every round? How does it affect the round pace?
-- How do you wish for players to interact with your feature and how should they not interact with it? How is this mechanically enforced?
+These features come into play from start to end of round, so long as there are borgs or an Ai
+The features as proposed should encourage borgs to seek out proper maintenance and upgrades, while avoiding combat, both of which are handled by the expanded repair processes. Aside from that the utilitarian additions have very few interactions outside of their listed roles that I can think of.
 
 ## Administrative & Server Rule Impact (if applicable)
 
-- Does this feature introduce any new rule enforcement challenges or additional workload for admins?
-- Could this feature increase the likelihood of griefing, rule-breaking, or player disputes?
-- How are the rules enforced mechanically by way the feature will be implemented?
+The ability for borgs to unlock themselves may lead to borgs actively seeking out antagonists in order to get subverted, a sort of inverted validhunting
+- What I described above should be the only real concern there, aside from that I can't think of other potential issues
+- No mechanical enforcement, doing so would make the self unlocking feature all but worthless, will likely need to be enforced manually.
 
 # Technical Considerations
 
-- Are there any anticipated performance impacts?
-- Does the feature require new systems, UI elements, or refactors of existing ones?
-- For required UI elements, give a short description or a mockup of how they should look like (for example a radial menu, actions & alerts, navmaps, or other window types)
+- Unlikely, but not impossible.
+- Would require some new systems and at least one ui, some features could use modified versions of current ui.
+- I'd like the Cyber Interface to use a UI similar to the one used on TG station, as it is a near 1:1 replica.
