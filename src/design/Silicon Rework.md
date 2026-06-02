@@ -24,9 +24,9 @@ Reworks silicons to be more in line with their implementation in tg based space 
 The current implementation of cyborgs feels unfinished and shallow, ridiculously easy to repair, little complexity to how they work, and shockingly little interaction with the roboticist. This design proposal aims to address issues and pave a groundwork to expand upon cyborg and AI gameplay.  
 
 ## Features to be added
-# Cyborgs
+
  
-  # Additional tasks for the roboticist:
+# Additional tasks for the roboticist:
     Borgs can no longer be repaired fully with just a few seconds and a welder, instead needing different maintenance processes depending on the type and severity of the damage.
       A Borg in critical condition will no longer immediately get up after being repaired, instead needing to be rebooted by someone who can access their internals.
       Burn damage is no longer repaired via welding, instead requiring the cyborg to be opened up, battery removed, and using cables to repair burnt out wiring.
@@ -34,7 +34,7 @@ The current implementation of cyborgs feels unfinished and shallow, ridiculously
       The above is accomplished by the addition of a wiring panel to the cyborg, accessed by opening their maintenance panel and removing the battery, then clicking the cyborg with a multitool or wire cutters. Currently only one functional wire is planned in the "Module" wire which would be snipped to return a borg to a blank chassis, then mended to allow them to select again, but the panel would lend itself to further uses down the line.
       A suite of new generic upgrades for use by any borg model, including a battery powered jetpack, a speed upgrade, and a very minor self repairing upgrade.
  
-  # New utilities for Cyborgs
+ # New utilities for Cyborgs
     Cyber Interface: An integrated PDA substitute for cyborgs to use, comes with an instant messenging app, Crew Manifest,and a self diagnostic and chassis settings application.
     The above application would allow the Cyborg to self diagnose damages to their chassis, unlock their own panel cowling, edit the power level of their onboard flashlight, and disable the ai's view through the on-board camera.
     Alerts panel: Allows the cyborg to diagnose issues or hazardous areas on the station by collecting power and atmospherics alerts in a simple categorized list view.
