@@ -1,4 +1,4 @@
-# Full Silicon Rework
+# Silicons Redone
 
 Your title should convey the basic jist of your proposed changes. It should be short because the text will be linked in the sidebar.
 
@@ -6,14 +6,7 @@ Your title should convey the basic jist of your proposed changes. It should be s
 |---|---|---|
 | MangoMaeve | :x: No | TBD |
 
-`Designers` should be the names that you use on GitHub and/or Discord. This is optional but strongly recommended, since:
 
-- This acknowledges credit where it is due
-- People who are confused about the written intent can use this information to contact the authors
-
-`Implemented` is the status of the feature.
-
-Github links can include multiple PRs, if relevant.
 
 ## Overview
 
@@ -21,7 +14,7 @@ Reworks silicons to be more in line with their implementation in tg based space 
 
 ## Background
 
-The current implementation of cyborgs feels unfinished and shallow, ridiculously easy to repair, little complexity to how they work, and shockingly little interaction with the roboticist. This design proposal aims to address issues and pave a groundwork to expand upon cyborg and AI gameplay.  
+The current implementation of cyborgs feels unfinished and shallow, ridiculously easy to repair, little complexity to how they work, and shockingly little interaction with the roboticist. This design proposal is largely aimed at reworking Cyborg gameplay and systems but does impact the Station AI in several ways.  
 
 ## Features to be added
 
@@ -86,3 +79,6 @@ The ability for borgs to unlock themselves may lead to borgs actively seeking ou
 - Unlikely, but not impossible.
 - Would require some new systems and at least one ui, some features could use modified versions of current ui.
 - I'd like the Cyber Interface to use a UI similar to the one used on TG station, as it is a near 1:1 replica.
+
+# Notes
+ This document focuses on cyborgs themselves as a whole, however should I ever complete the objectives listed here I'll likely take a look at additional models of cyborg as well as a complete rework of upgrade modules to be more in line with TG
