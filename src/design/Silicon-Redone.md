@@ -30,14 +30,20 @@ The current implementation of cyborgs feels unfinished and shallow, ridiculously
  # New utilities for Cyborgs
     Cyber Interface: An integrated PDA substitute for cyborgs to use, comes with an instant messenging app, Crew Manifest,and a self diagnostic and chassis settings application.
     The above application would allow the Cyborg to self diagnose damages to their chassis, unlock their own panel cowling, edit the power level of their onboard flashlight, and disable the ai's view through the on-board camera.
+    
     Alerts panel: Allows the cyborg to diagnose issues or hazardous areas on the station by collecting power and atmospherics alerts in a simple categorized list view.
+   
     Remote Interaction: Allows the cyborg to interface with any networked device it can see, rather than by physical proximity, also allowing them to remotely bolt, shock, and set emergency access on a door.
+    
     Binary Garbling: In a similar vein to the bloodcult, speech over binary will be displayed in whisper range as a series of ones and zeros, rather than plaintext that anyone can eavesdrop on.
 
 # Station AI
+  
   Enhanced access: Allows the station Ai a deeper level of interaction with all devices, enabling it to operate SMES, Substations, and Lathes. This ability is also inherited by the "Remote Interaction" Section of the cyborg utilities mentioned above.
+  
   Tracking: Latches the camera view onto a selected entity until the sAI moves their cursor manually or the camera network loses sight of the target.
   sAI will also receive both the Cyber Interface and alerts panel listed above, alongside a records console and crew monitor.
+ 
   I have some ideas for a modular upgrade system for the sAI, but will touch on those in a seperate document, as it's rather out of scope.
   
   
@@ -45,7 +51,7 @@ The current implementation of cyborgs feels unfinished and shallow, ridiculously
 ## Game Design Rationale
 
 # Seriously Silly:
-  The way cyborgs currently operate has two major flaws as I see it, lack of mechanical depth and overuse in combat scenarios. No matter what else is happening, if there's a welder in the area and five to ten seconds of breathing room, any player can repair a borg into perfect shape, this results in them being used as both a combat juggernaut and a vessel for validhunting. Because they can be so easily repaired the crew can just continually throw borgs at a problem and repair them to do it again in mere seconds if the kill is not secured, even if the borg would be put to better use elsewhere during crisis time. As a borg main myself, I find this terribly uninteresting and believe borgs are more suited in the civillian roles they're meant to occupy, only really threatening anything when subverted and given the element of surprise. I do find a single exception to this in the form of an idea for security borgs I have in mind, but that is out of scope, and relies on the outlined changes to ever even see a design document.
+   The way cyborgs currently operate has two major flaws as I see it, lack of mechanical depth and overuse in combat scenarios. No matter what else is happening, if there's a welder in the area and five to ten seconds of breathing room, any player can repair a borg into perfect shape, this results in them being used as both a combat juggernaut and a vessel for validhunting. Because they can be so easily repaired the crew can just continually throw borgs at a problem and repair them to do it again in mere seconds if the kill is not secured, even if the borg would be put to better use elsewhere during crisis time. As a borg main myself, I find this terribly uninteresting and believe borgs are more suited in the civillian roles they're meant to occupy, only really threatening anything when subverted and given the element of surprise. I do find a single exception to this in the form of an idea for security borgs I have in mind, but that is out of scope, and relies on the outlined changes to ever even see a design document.
   Outside of the changes to their combat viability, the interface opens up additional approaches for antags to get cyborgs on their side, the ability for a borg to unlock itself means that subverted borgs are available to anyone who can trick or convince a cyborg to pop their lock long enough to be hacked. While the ability to cut the ai's camera view through the borg lets them hide actions done while subverted more effectively.
 
 # No Win or Loss:
